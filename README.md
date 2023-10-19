@@ -1,4 +1,6 @@
-### Hi there 👋
+![photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.png)
+
+## Hey there ✨
 
 <!--
 **amanchokshi/amanchokshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
