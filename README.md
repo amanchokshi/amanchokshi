@@ -1,4 +1,4 @@
-![photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.png)
+![photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.jpg)
 
 ## Hey there ✨
 
