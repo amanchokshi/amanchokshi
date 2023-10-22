@@ -15,9 +15,9 @@ detect these promodial signals
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/amanchokshi">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amanchokshi&rank_icon=github&show_icons=true&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&include_all_commits=true&card_width=480" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/amanchokshi">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchokshi&size_weight=0.5&count_weight=0.5&hide=vim%20script&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&hide_title=true&card_width=396" />
 </a>
