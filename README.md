@@ -1,7 +1,7 @@
 ![Photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.jpg)
 <!-- ### :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon: :new_moon: -->
 
-<div align="center"><h3 style="text-align:center">🌑 &nbsp&nbsp🌒&nbsp&nbsp 🌓&nbsp&nbsp 🌔&nbsp&nbsp 🌕&nbsp&nbsp 🌖&nbsp&nbsp 🌗&nbsp&nbsp 🌘&nbsp&nbsp 🌑</h3></div>
+<div align="center"><h2 style="text-align:center">🌑 &nbsp&nbsp🌒&nbsp&nbsp 🌓&nbsp&nbsp 🌔&nbsp&nbsp 🌕&nbsp&nbsp 🌖&nbsp&nbsp 🌗&nbsp&nbsp 🌘&nbsp&nbsp 🌑</h2></div>
 
 
 I'm a radio astronomer at the 
