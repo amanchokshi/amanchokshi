@@ -1,6 +1,5 @@
 ![Photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.jpg)
-
-## Hey there :sparkles:
+<!-- ## Hey there :sparkles: -->
 I'm a radio astronomer at the 
 [@unimelb](https://astro.physics.unimelb.edu.au/), 
 [@astro3d](https://astro3d.org.au/) & 
