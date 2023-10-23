@@ -8,7 +8,7 @@ I'm a radio astronomer at the
 [@unimelb](https://astro.physics.unimelb.edu.au/), 
 [@astro3d](https://astro3d.org.au/) & 
 [@csiro](https://www.csiro.au/en/research/technology-space/astronomy-space) 
-studing the origin of the first light in our Universe. Using telescopes such
+studying the origin of the first light in our Universe. Using telescopes such
 as the [Murichison Widefield Array](https://www.mwatelescope.org/) and the 
 upcoming [Square Kilometer Array](https://www.skao.int/en) I attempt to 
 detect these promodial signals
