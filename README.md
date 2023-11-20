@@ -4,14 +4,18 @@
 <!-- <div align="center"><h3 style="text-align:center">🌑 &nbsp&nbsp🌒&nbsp&nbsp 🌓&nbsp&nbsp 🌔&nbsp&nbsp 🌕&nbsp&nbsp 🌖&nbsp&nbsp 🌗&nbsp&nbsp 🌘&nbsp&nbsp 🌑</h3></div> -->
 
 ---
-I'm a radio astronomer at the 
+I'm a radio astronomer at  
 [@unimelb](https://astro.physics.unimelb.edu.au/), 
 [@astro3d](https://astro3d.org.au/) & 
 [@csiro](https://www.csiro.au/en/research/technology-space/astronomy-space) 
 studying the origin of the first light in our Universe. Using telescopes such
 as the [Murichison Widefield Array](https://www.mwatelescope.org/) and the 
 upcoming [Square Kilometer Array](https://www.skao.int/en) I attempt to 
-detect these promodial signals
+detect these promodial signals.
+
+[![Google Scholar profile Badge](http://img.shields.io/badge/--4285F4?style=plastic&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=FV2exUAAAAAJ&hl=en)
+[![ResearchGate profile Badge](http://img.shields.io/badge/--00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aman-Chokshi)
+[![ORCID Badge](http://img.shields.io/badge/-0000--0003--1130--6390-A6CE39?style=plastic&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-1130-6390)
 
 ---
 
