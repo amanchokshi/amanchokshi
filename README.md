@@ -1,7 +1,7 @@
 ![Photo of the Milky Way over a Telescope in the Himalayas, taken by Aman](hanle.jpg)
 
 ---
-I'm a radio astronomer at [@McGill](https://www.physics.mcgill.ca/research/astro.html) & [@ Trottier Space Institute](https://tsi.mcgill.ca) 
+I'm a radio astronomer at [@McGill](https://www.physics.mcgill.ca/research/astro.html) & [@Trottier Space Institute](https://tsi.mcgill.ca) 
 studying the origin of the first light in our Universe. Using telescopes such as the [Murichison Widefield Array](https://www.mwatelescope.org/) 
 and the upcoming [Square Kilometer Array](https://www.skao.int/en) I attempt to detect these promodial signals. 
 I'm interested in data visualization, open source software projects, hope to new languages [rust/french? soon], love the outdoors and astrophotography!
