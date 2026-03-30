@@ -20,5 +20,5 @@ Love to collaborate on many things, reach out for a chat!
   <img decoding="async" loading="lazy" height=200 align="center" src="https://github-readme-stats-sooty-xi-26.vercel.app/api?username=amanchokshi&rank_icon=github&show_icons=true&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&include_all_commits=true&card_width=480" />
 </a>
 <a href="https://github.com/amanchokshi">
-  <img height=200 align="center" src="https://github-readme-stats-sooty-xi-26.vercel.app/api/top-langs/?username=amanchokshi&layout=donut&theme=gruvbox&size_weight=0.5&count_weight=0.5&hide=vim%20script,jupyter%20notebook&langs_count=4&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&card_width=292" />
+  <img height=199.5 align="center" src="https://github-readme-stats-sooty-xi-26.vercel.app/api/top-langs/?username=amanchokshi&layout=donut&theme=gruvbox&size_weight=0.5&count_weight=0.5&hide=vim%20script,jupyter%20notebook&langs_count=4&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&card_width=300" />
 </a>
