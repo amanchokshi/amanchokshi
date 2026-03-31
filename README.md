@@ -19,8 +19,8 @@ and am currently learning Rust and French. Reach out to collaborate or chat!
 ---
 
 <a href="https://github.com/amanchokshi">
-  <img decoding="async" loading="lazy" height=170 align="center" src="https://raw.githubusercontent.com/amanchokshi/amanchokshi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img decoding="async" loading="lazy" height=160 align="center" src="https://raw.githubusercontent.com/amanchokshi/amanchokshi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </a>
 <a href="https://github.com/amanchokshi">
-  <img height=170 align="center" src="https://raw.githubusercontent.com/amanchokshi/amanchokshi/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+  <img height=160 align="center" src="https://raw.githubusercontent.com/amanchokshi/amanchokshi/main/profile-summary-card-output/nord_dark/3-stats.svg" />
 </a>
